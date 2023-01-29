@@ -1,0 +1,23 @@
+{
+  "name": "mqtt_client",
+  "version": "1.0.0",
+  "description": "Mqtt protocol implimentation  using emq open source broker ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolaj/mqtt_emq_broker.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "Swapnil Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tolaj/mqtt_emq_broker/issues"
+  },
+  "homepage": "https://github.com/Tolaj/mqtt_emq_broker#readme"
+}
